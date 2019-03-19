@@ -1,0 +1,19 @@
+{
+    "test": {
+        "awscloudformation": {
+            "AuthRoleName": "serverlessprojecttut-20190318163946-authRole",
+            "UnauthRoleArn": "arn:aws:iam::272926821434:role/serverlessprojecttut-20190318163946-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::272926821434:role/serverlessprojecttut-20190318163946-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "serverlessprojecttut-20190318163946-deployment",
+            "UnauthRoleName": "serverlessprojecttut-20190318163946-unauthRole",
+            "StackName": "serverlessprojecttut-20190318163946",
+            "StackId": "arn:aws:cloudformation:us-east-1:272926821434:stack/serverlessprojecttut-20190318163946/f834fea0-49bd-11e9-9f86-12f08cf73b28"
+        },
+        "categories": {
+            "auth": {
+                "cognito8a327602": {}
+            }
+        }
+    }
+}

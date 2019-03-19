@@ -1,0 +1,10 @@
+{
+    "AppSyncApiName": "serverlessprojecttut",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authcognito8a327602",
+            "Outputs.UserPoolId"
+        ]
+    }
+}

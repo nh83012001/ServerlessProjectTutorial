@@ -1,0 +1,13 @@
+{
+    "bucketName": "serverlessprojecttutbfce95a5280a4037815f7c63767fd145",
+    "authPolicyName": "s3_amplify_4e959b76",
+    "unauthPolicyName": "s3_amplify_4e959b76",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authPermissions": "rw",
+    "unauthPermissions": ""
+}
